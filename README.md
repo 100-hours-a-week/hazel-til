@@ -13,12 +13,12 @@
 24.04.02 세부 주제 1 작성 (상세 내역 링크)
 
 
-### [n월 n째주, n주차] : 간략 주제 작성 
+### [4월 둘째주, 2주차] : javascript 
 
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
+24.04.dd 세부 주제 4 작성 (상세 내역 링크)
 
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
+24.04.dd 세부 주제 3 작성 (상세 내역 링크)
 
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
+24.04.dd 세부 주제 2 작성 (상세 내역 링크)
 
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+24.04.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/hazel-til/blob/e83d587703937772562325b8d854d7476a87858d/Jan/yyyy-mm-dd))
